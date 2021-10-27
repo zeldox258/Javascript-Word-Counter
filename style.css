@@ -1,0 +1,19 @@
+html{
+  background-color: #FDA65D;
+}
+h2{
+  color: red;
+}
+
+textarea{
+  width: 350px;
+  height: 200px;
+  padding: 10px;
+  border:3px dashed indigo;
+  background-color: black;
+  color: yellow;
+}
+
+.area{
+  text-align: center;
+}
